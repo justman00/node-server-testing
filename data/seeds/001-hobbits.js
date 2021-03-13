@@ -5,5 +5,6 @@ exports.seed = async function(knex) {
 		{ name: "frodo" },
 		{ name: "pippin" },
 		{ name: "merry" },
+		{ name: "rodo" },
 	])
 }
